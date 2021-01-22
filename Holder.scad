@@ -1,10 +1,10 @@
 
 // Roll hole dimensions
-HoleDiameter	= 25;	// This is safe with lots of tolerance on both sides
+HoleDiameter	= 23;	// This is safe with lots of tolerance on both sides
 HoleDepth		= 58;	// Width of the roll, so to speak
 
 // Screw hole dimensions
-ScrewDiameter	= 2.5;
+ScrewDiameter	= 2.7;
 ScrewDistance	= 18;	// From center, measured 20.5 from each outside
 ScrewLength		= 8;	// Longer than needed, just in case
 
